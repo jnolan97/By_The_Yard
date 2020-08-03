@@ -1,0 +1,8 @@
+.container {
+    width: 800px;
+    height: 650px;
+    background-image: url('../logofile.PNG');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+  }
